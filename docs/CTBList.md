@@ -10,7 +10,7 @@ Contributor: Feng Gao, USTB, China
 
 Contributor: bo gong, DLUT, China
 
-Contributor: xuanwa xian, ICT CAS,China
+Contributor: zhang shuai,USTB,China
 
 Contributor: cong xc, EVERCREATIVE, China
 
